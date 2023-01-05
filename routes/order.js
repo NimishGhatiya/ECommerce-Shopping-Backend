@@ -4,6 +4,7 @@ const {
   deleteOrder,
   getuserorder,
   findallorders,
+  Findby2tables,
 } = require("../controller/ordercontroller");
 const { verifyToken, verifyTokenAndAdmin } = require("../middleware/auth");
 const Express = require("express");
