@@ -1,0 +1,3 @@
+This project is a comprehensive backend for a modern e-commerce website, built entirely with Node.js and Express.js. It provides a full-featured REST API to power a complete online shopping platform.
+
+Key functionalities include product management, a shopping cart, and a streamlined order processing system where users can purchase items and track their order status (e.g., Pending, Shipped, Delivered). The application also features a robust user authentication system with secure endpoints for Signup, Login, Forgot Password, and Password Reset, ensuring a secure and seamless user experience from start to finish.
